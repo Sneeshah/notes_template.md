@@ -34,11 +34,11 @@ fgets writes 128 bytes of data to buf, but buf is only 32 bytes of size
 ```
 
 ### Vulnerability
-- [ ] Buffer Overflow
-- [ ] Heap Overflow
-- [ ] Format String
-- [ ] Use After Free
-- [ ] Other: ___
+- Buffer Overflow
+- Heap Overflow
+- Format String
+- Use After Free
+- Other: ___
 
 ### Stack Layout
 ```
